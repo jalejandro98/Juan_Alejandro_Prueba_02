@@ -11,4 +11,9 @@
     <string name="button_mostrarResultados">Mostrar resultados</string>
     <string name="editTextTextPersonName">Ingrese sus nombres</string>
     <string name="editText_apellido">Ingrese sus apellidos</string>
+    <string name="editText_dividendo" />
+    <string name="editText_divisor" />
+    <string name="editText_entera" />
+    <string name="editText_residuo" />
+    <string name="editText_invertido" />
 </resources>
