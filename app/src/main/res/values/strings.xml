@@ -2,4 +2,13 @@
     <string name="app_name">Juan_Alejandro_Prueba_02</string>
     <string name="textView_nombre">Nombres:</string>
     <string name="textView_apellido">Apellidos:</string>
+    <string name="textView_dividiendo">Dividendo:</string>
+    <string name="textView_divisor">Divisor:</string>
+    <string name="textView5_parteEntera">Parte entera:</string>
+    <string name="textView_residuo">Residuo:</string>
+    <string name="textView_invertido">Num. Invertido</string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_mostrarResultados">Mostrar resultados</string>
+    <string name="editTextTextPersonName">Ingrese sus nombres</string>
+    <string name="editText_apellido">Ingrese sus apellidos</string>
 </resources>
