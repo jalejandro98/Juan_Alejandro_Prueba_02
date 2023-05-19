@@ -16,4 +16,9 @@
     <string name="editText_entera" />
     <string name="editText_residuo" />
     <string name="editText_invertido" />
+    <string name="editText_nombres">Ingrese sus nombres</string>
+    <string name="textView_result">Número</string>
+    <string name="editText_result" />
+    <string name="button_cerrar">Cerrar</string>
+
 </resources>
