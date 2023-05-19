@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/segundo_layour"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_row="4"
@@ -9,8 +10,9 @@
     android:layout_column="2"
     android:layout_columnSpan="2"
     android:layout_columnWeight="2"
+    android:layout_margin="15dp"
     android:orientation="vertical"
-    tools:context=".SegundoActivity_Alejandro" >
+    tools:context=".SegundoActivity_Alejandro">
 
     <TextView
         android:id="@+id/textView5"
@@ -56,11 +58,12 @@
         android:id="@+id/editTextNumber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:autofillHints=""
         android:ems="10"
         android:hint="@string/editText_dividendo"
         android:inputType="number"
         android:minHeight="48dp"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textView8"
@@ -88,11 +91,12 @@
         android:id="@+id/editTextNumber3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:autofillHints=""
         android:ems="10"
         android:hint="@string/editText_result"
         android:inputType="number"
         android:minHeight="48dp"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/button"
