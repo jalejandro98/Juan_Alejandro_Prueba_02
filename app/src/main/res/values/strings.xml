@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Juan_Alejandro_Prueba_02</string>
+    <string name="textView_nombre">Nombres:</string>
+    <string name="textView_apellido">Apellidos:</string>
 </resources>
